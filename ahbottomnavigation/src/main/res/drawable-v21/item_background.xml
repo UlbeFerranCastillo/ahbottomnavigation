@@ -7,7 +7,7 @@
             <item
                 android:drawable="@color/colorBottomNavigationSelectedBackground"
                 android:state_selected="true"/>
-            <item android:drawable="@android:color/transparent"/>
+            <item android:drawable="@android:color/colorGreyPrimaryDark"/>
         </selector>
     </item>
     <item android:drawable="?attr/selectableItemBackgroundBorderless"/>
