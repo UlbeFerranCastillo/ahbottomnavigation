@@ -99,6 +99,7 @@ public class AHBottomNavigation extends FrameLayout {
 	private Typeface titleTypeface;
 	private int defaultBackgroundColor = Color.WHITE;
 	private int defaultBackgroundResource = 0;
+	private int activateBackgroundColor = 0;
 	private @ColorInt int itemActiveColor;
 	private @ColorInt int itemInactiveColor;
 	private @ColorInt int titleColorActive;
